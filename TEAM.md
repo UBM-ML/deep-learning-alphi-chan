@@ -1,6 +1,6 @@
 # Tim
 
-**Nama Kelompok:** _(isi nama tim kalian)_
+**Nama Kelompok:** alphi-chan
 
 **Kelas:** _(misal: Machine Learning – Kelas A)_
 

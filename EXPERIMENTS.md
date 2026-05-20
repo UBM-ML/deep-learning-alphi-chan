@@ -16,7 +16,7 @@ Isi tabel ini setelah selesai semua eksperimen.
 | 1 | 2      | 256     | relu       | adam      | 0.001  | 128   | 50     | 0.3     |  ~89%    | 71.4s      |
 | 2 | 3      | 128     | relu       | adam      | 0.001  | 32    | 20     | 0.3     |  87.77%  |  108.7     |
 | 3 | 4      | 256     | relu       | adam      | 0.001  | 64    | 40     | 0.2     |  89.07%  |   118.9s   |
-| 4 |        |         |            |           |        |       |        |         |          |            |
+| 4 | 6       | 256        | elu          | rmsprop          | 0.0005       | 32      | 40       | 0.2        | 88.35%         | 229.5s           |
 | 5 |        |         |            |           |        |       |        |         |          |            |
 
 > **Eksperimen #0** = baseline (jangan ubah, ini patokan kalian).

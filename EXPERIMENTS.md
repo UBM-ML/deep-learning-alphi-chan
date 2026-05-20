@@ -13,7 +13,7 @@ Isi tabel ini setelah selesai semua eksperimen.
 | # | Hidden | Neurons | Activation | Optimizer | LR     | Batch | Epochs | Dropout | Test Acc | Train Time |
 |---|--------|---------|------------|-----------|--------|-------|--------|---------|----------|------------|
 | 0 | 1      | 64      | relu       | sgd       | 0.01   | 32    | 10     | 0.0     | ~85%     | ~30s       |
-| 1 |        |         |            |           |        |       |        |         |          |            |
+| 1 | 2      | 256     | relu       | adam      | 0.001  | 128      |    50    |     0.3    |  ~89%        | 71.4s           |
 | 2 |        |         |            |           |        |       |        |         |          |            |
 | 3 |        |         |            |           |        |       |        |         |          |            |
 | 4 |        |         |            |           |        |       |        |         |          |            |

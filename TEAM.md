@@ -8,7 +8,7 @@
 
 | Nama Lengkap | NIM | Role | GitHub Username |
 |---|---|---|---|
-|  |  | Lead / Coder |  |
+| Nelson Cahyadi |  | Lead / Coder |  |
 |  |  | Experiment logger |  |
 |  |  | Reflection writer |  |
 |  |  | Presenter |  |

@@ -11,7 +11,7 @@ Berdasarkan eksperimen yang kalian lakukan, jelaskan dengan **kata-kata kalian s
 - Manakah yang berubah saat training berjalan, dan manakah yang ditentukan oleh kalian sebelum training?
 
 **Jawaban:**
->
+> parameternya adalah weight / bobot dan bias, sedangkan hyperparameternya adalah hidden layers, jumlah neuron per layer, fungsi aktivasi, learning rate, ukuran batch, optimizer, epoch dan dropout rate. 
 
 ---
 

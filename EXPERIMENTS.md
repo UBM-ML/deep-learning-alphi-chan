@@ -70,7 +70,12 @@ Gunakan template di bawah untuk SETIAP eksperimen.
 
 **Hipotesis:**
 
-**Hasil:**
+**Hasil:**  
+- Test accuracy: ___%
+- Train accuracy: ___%
+- Validation accuracy: ___%
+- Train time: ___ detik
+- Apakah overfit/underfit? ___
 
 **Observasi:**
 

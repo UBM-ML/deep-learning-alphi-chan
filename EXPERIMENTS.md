@@ -71,7 +71,7 @@ Gunakan template di bawah untuk SETIAP eksperimen.
 
 ### Eksperimen #3
 
-**Apa yang diubah:**
+**Apa yang diubah: mengganti batch, epochs, dan dropout**
 
 **Hipotesis:**
 

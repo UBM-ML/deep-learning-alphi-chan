@@ -71,10 +71,10 @@ Gunakan template di bawah untuk SETIAP eksperimen.
 **Hipotesis:**
 
 **Hasil:**  
-- Test accuracy: ___%
-- Train accuracy: ___%
-- Validation accuracy: ___%
-- Train time: ___ detik
+- Test accuracy: 89.07%
+- Train accuracy: 91.90%
+- Validation accuracy: 90.07%
+- Train time: 118.9 detik
 - Apakah overfit/underfit? ___
 
 **Observasi:**

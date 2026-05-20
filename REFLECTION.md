@@ -11,7 +11,7 @@ Berdasarkan eksperimen yang kalian lakukan, jelaskan dengan **kata-kata kalian s
 - Manakah yang berubah saat training berjalan, dan manakah yang ditentukan oleh kalian sebelum training?
 
 **Jawaban:**
->
+> Parameter adalah nilai yang berubah saat raining berjalan, yaitu weight / bobot dan bias, sedangkan hyperparameter adalah nilai yang ditentukan sebelum training berjalan, yaitu hidden layers, jumlah neuron per layer, fungsi aktivasi, learning rate, ukuran batch, optimizer, epoch dan dropout rate. 
 
 ---
 

@@ -1,6 +1,6 @@
 # Tim
 
-**Nama Kelompok:** _(isi nama tim kalian)_
+**Nama Kelompok:** alphi-chan
 
 **Kelas:** _(misal: Machine Learning – Kelas A)_
 
@@ -8,7 +8,7 @@
 
 | Nama Lengkap | NIM | Role | GitHub Username |
 |---|---|---|---|
-|  |  | Lead / Coder |  |
+| Nelson Cahyadi |  | Lead / Coder |  |
 |  |  | Experiment logger |  |
 |  |  | Reflection writer |  |
 |  |  | Presenter |  |
